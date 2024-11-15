@@ -1,8 +1,6 @@
 ## Hi there 👋
 <p align="center"><img src="https://github.com/cancelledcoder/cancelledcoder/blob/main/header.png" width="1380px" height="180px"></p>
-<h1 align="center">Hi 👋, I'm Ayush</h1>
 <img src="https://github.com/cancelledcoder/cancelledcoder/blob/main/intro.gif" width="30%" align="right">
-
 <h1 align="center">Hi 👋, I'm Ayush Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **ayushbusinessmail@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lRwhBl3SyZtM2QLDPI4NYoIbJC4s_Xi3/view?usp=sharing](https://drive.google.com/file/d/1lRwhBl3SyZtM2QLDPI4NYoIbJC4s_Xi3/view?usp=sharing)
+- 📄 Know about my experiences [Certificates](https://drive.google.com/file/d/1lRwhBl3SyZtM2QLDPI4NYoIbJC4s_Xi3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
